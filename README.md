@@ -33,3 +33,4 @@ This project is a simple and intuitive To-Do List application built using React.
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Nurudeenbika/To-do-app.git
+   npm install
